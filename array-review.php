@@ -29,4 +29,16 @@
     echo '<br>';
     echo '<br>';
 
+    //part 2
+    echo '<h1>Part 2</h1>';
+
+    $cupcakeFlavors = array(
+        'grasshopper' => 'The Grasshopper',
+        'maple' => 'Whiskey Maple Bacon',
+        'carrot' => 'Carrot Walnut',
+        'caramel' => 'Salted Caramel Cupcake',
+        'velvet' => 'Red Velvet',
+        'lemon' => 'Lemon Drop',
+        'tiramisu' => 'Tiramisu'
+    );
 ?>
